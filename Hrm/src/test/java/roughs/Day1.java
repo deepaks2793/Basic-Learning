@@ -8,7 +8,7 @@ public class Day1 {
 	
 	public static void main(String[] args)
 	{
-		String s1=new String("abc");
+		String s1=new String("abcd");
 		String s2="abc";
 		String s4="ab"+new String("cd");
 		String s3="ab"+"c";
