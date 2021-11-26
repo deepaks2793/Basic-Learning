@@ -10,7 +10,7 @@ public class Day1 {
 	{
 		String s1=new String("abc");
 		String s2="abc";
-		String s4="ab"+new String("c");
+		String s4="ab"+new String("cd");
 		String s3="ab"+"c";
 		
 		System.out.println(s2==s3);
