@@ -18,7 +18,7 @@ public class LoginPageTest extends TestBase {
 		browserInitialisation(prop.getProperty("browsername"));
 		LoginPage loginpage=new LoginPage();
 		loginpage.enterLogin(prop.getProperty("username"),prop.getProperty("password"));
-		System.out.println("Test");
+		System.out.println("Test123");
 	
 	}
 	
